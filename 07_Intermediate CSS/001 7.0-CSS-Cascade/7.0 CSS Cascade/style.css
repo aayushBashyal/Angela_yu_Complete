@@ -11,3 +11,18 @@ p {
   padding: 0;
 }
 
+/* Add your CSS below this line. */
+
+#outer-box {
+  background-color: purple;
+}
+
+.inner-box {
+  background-color: red;
+}
+
+
+.white-text {
+  color: white;
+}
+
